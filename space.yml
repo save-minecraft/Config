@@ -411,21 +411,6 @@ spaces:
       z: 0
       yaw: 0
       pitch: 0
-  resource001:
-    world: resource_001
-    id: 28
-    title: JR_Railway
-    owner: のぞみ
-    description: ""
-    spawn:
-      x: 0
-      y: 64
-      z: 0
-      yaw: 180
-      pitch: 0
-    resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/jr_railway.zip
-      hash: 7bd3d02e403e143fb26b607307cebf90c71c8d98
   resource:
     world: resource
     id: 29

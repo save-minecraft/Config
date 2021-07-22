@@ -18,6 +18,184 @@ spaces:
       z: 182.5
       yaw: 180
       pitch: 0
+  resource:
+    world: resource
+    id: 29
+    title: 리소스팩 통합관
+    owner: 리소스팩 제작자
+    description: "다양한 리소스팩 작품들이 전시된 공간입니다"
+    spawn:
+      x: -44
+      y: 5
+      z: 48
+      yaw: -90
+      pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722grandfinal).zip
+      hash: 99d94d8a13447ad7cbafc7b33b51ae115dbfa36d
+  map007:
+    world: map007
+    id: 9
+    title: DamCoast
+    owner: 김치보이즈
+    description: |
+      "어느 바다의 한가운데, 바다를 가로막는 거대한 벽으로 둘러싸인 도시가 있다.  그리고 세상에 존재하는 대부분의 지식, 부, 사상, 아름다움, 꿈, 열정, 사랑은 그곳에 있다. "
+      3명의 한국인 마인크래프트 건축가로 구성된 김치 보이즈가 1년 5개월 동안 영혼과 열정을 쏟은 최대의 프로젝트이자 3번째로 대중에게 공개한 작품입니다.
+      제작 초기에 작품의 컨셉과 구성을 설정하고 시작하지 않았고, 제작 과정에서 3인이 즉흥적으로 떠올린 아이디어들을 있는 그대로 과감하게 표현하며 진행된 작품입니다.
+      "창조의 기원 : 댐 코스트"는 1년 5개월간의 그들의 즉흥적인 발상들이 모여서 만들어진 하나의 거대한 작품이자 세계입니다.
+    spawn:
+      x: 264.5
+      y: 101
+      z: 46.5
+      yaw: 90
+      pitch: 0
+  map012:
+    world: map012
+    id: 8
+    title: 크루즈
+    owner: 다람쥐친구
+    description: ""
+    spawn:
+      x: 0.5
+      y: 64
+      z: 0.5
+      yaw: -90
+      pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map012.zip
+      hash: 5777058ff8b5e8433998a13aab456cb7d2c4d2a0
+  map018:
+    world: map018
+    id: 14
+    title: 무릉선향도
+    owner: 감자튀김
+    description: |
+      동양 철학인 도교에 등장하는 무릉도원을 현대적으로 재 해석한 작품입니다.
+      제목에서도 알 수 있듯 여러 동양화들에서 모티프를 얻어 제작했으며
+      작품자체도 한 폭의 그림처럼 보여지게 의도하여 제작했습니다.
+      팬데믹 상황으로 인해 활동이 제한된 시대에서 많은 분들이 메타버스에서
+      건축된 무릉도원으로 인해 답답한 일상에 조금이나마 환기를 하실 수 있으면 좋겠습니다.
+    spawn:
+      x: 633
+      y: 10
+      z: 342
+      yaw: 180
+      pitch: 0
+  map019:
+    world: map019
+    id: 5
+    title: Check-Check-Fork-Fork기차
+    owner: GB디코
+    description: ""
+    spawn:
+      x: 2984
+      y: 19
+      z: 544
+      yaw: 90
+      pitch: 0
+  map013:
+    world: map013
+    id: 23
+    title: SpaceShip Collection
+    owner: ZetaZeta
+    description: ""
+    spawn:
+      x: -252
+      y: 131
+      z: 106
+      yaw: 0
+      pitch: 0
+  map021:
+    world: map021
+    id: 25
+    title: 무명여제
+    owner: Pierrot3
+    description: ""
+    spawn:
+      x: 0
+      y: 64
+      z: 0
+      yaw: 0
+      pitch: 0
+  map014:
+    world: map014
+    id: 12
+    title: 경복궁
+    owner: spider1207
+    description: ""
+    spawn:
+      x: 1.5
+      y: 62.5
+      z: 195.5
+      yaw: 180
+      pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map014.zip
+      hash: a1fef72bebfb60c245d77e7c561628c7d6c353bc
+  map009:
+    world: map009
+    id: 16
+    title: Rubrum Tectum
+    owner: VBTDenver
+    description: ""
+    spawn:
+      x: 0.5
+      y: 64
+      z: 5
+      yaw: 180
+      pitch: 0
+  map002:
+    world: map002
+    id: 21
+    title: 인천송도센트럴파크
+    owner: 심플sp
+    description: |
+      요즈음 코로나19 팬데믹으로 인하여 국내여행조차 힘든 상황에도
+      송도 센트럴파크의 멋진 광경을 즐길 수 있도록 마인크래프트를 메타버스로 활용하여
+      인천 송도 센트럴파크를 마인크래프트내에 구현하였습니다.
+      센트럴파크의 산책로를 거닐며 자연과 주변 고층건물들의 조화를 중심으로 관람하시는 것을 추천드립니다.
+    spawn:
+      x: 1
+      y: 64
+      z: 11
+      yaw: 0
+      pitch: 0
+  map017:
+    world: map017
+    id: 15
+    title: 도화걷길, 다함께걷길
+    owner: LonDonMS
+    description: |
+      경의선 숲길을 모티브로 하여 제작한 폐철도공원입니다.
+      도심에서 느낄 수 있는 자연의 공간, 쉼터의 공간을 표현하였습니다.
+      구역마다 다른 컨셉, 다른 표현을 통해 길을 걸으며 새로운 분위기를 느낄 수 있도록 만들어 보았습니다.
+      낮과 밤, 새벽의 시간마다 달라지는 공원의 색다른 풍경들을 감상해보세요.
+      코로나로 인해 외부활동을 자제하여야 하는 요즘, 이 작품을 감상하시며 조금이라도 산책을 하는 기분이 들으셨으면 좋겠습니다.
+      원활한 감상을 위해서는 seus ptgi e12나 ptgi e 계열 쉐이더[고사양이므로 성능이 안좋은 컴퓨터에서는 작동이 어려울 수 있습니다.]와 24 이상의 렌더 거리를 권장해드립니다.
+    spawn:
+      x: 127
+      y: 51
+      z: 11105
+      yaw: 0
+      pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map017.zip
+      hash: c5ac4337bec0cb9921dbf6eedd36cc91a865c57a
+  map020:
+    world: map020
+    id: 3
+    title: 메이플스토리 블랙헤븐
+    owner: 심플sp
+    description: |
+      이 작품은 '메이플스토리'라는 게임의 '블랙헤븐'이라는 스토리를 건축으로 재현한 작품입니다.
+      두 함대가 격렬히 전투하는 모습을 3차원 구조로 구현하여 보다 현장감을 느낄 수 있게 하였습니다.
+      두 세력 간 색감이 대비되도록 제작하였으니 이를 중심으로 관람하시는 것을 추천드립니다.
+    spawn:
+      x: -86.5
+      y: 72
+      z: 312
+      yaw: 180
+      pitch: 0
   map001:
     world: map001
     id: 13
@@ -38,22 +216,6 @@ spaces:
       z: 69
       yaw: 180
       pitch: 0
-  map002:
-    world: map002
-    id: 21
-    title: 인천송도센트럴파크
-    owner: 심플sp
-    description: |
-      요즈음 코로나19 팬데믹으로 인하여 국내여행조차 힘든 상황에도
-      송도 센트럴파크의 멋진 광경을 즐길 수 있도록 마인크래프트를 메타버스로 활용하여
-      인천 송도 센트럴파크를 마인크래프트내에 구현하였습니다.
-      센트럴파크의 산책로를 거닐며 자연과 주변 고층건물들의 조화를 중심으로 관람하시는 것을 추천드립니다.
-    spawn:
-      x: 1
-      y: 64
-      z: 11
-      yaw: 0
-      pitch: 0
   map003:
     world: map003
     id: 17
@@ -70,6 +232,115 @@ spaces:
       z: 319.5
       yaw: 180
       pitch: 0
+  map005:
+    world: map005
+    id: 2
+    title: 안압지
+    owner: 시호
+    description: |
+      신라의 대표 궁궐 건축물인 동궁과 월지를
+      복원모형, 조감도등을 참고하여 제작한 작품입니다.
+      현재의 동궁과 월지는 1,3,5호 건물만 복원이 된체
+      관광지로 많은 사람들이 놀러가곤하죠.
+      그렇지만 마인크래프트에서는 동궁과 월지를 복원함에
+      따라 신라의 멋을 느껴보실수있습니다!
+      시원한 호숫가에서 시원한 바람, 시원한 물, 멋진 건축물
+      등을 보면서 스트레스를 풀어보는건 어떨까요?
+    spawn:
+      x: 23
+      y: 50
+      z: -80
+      yaw: 0
+      pitch: 0
+  map006:
+    world: map006
+    id: 1
+    title: 베르세르크
+    owner: 하드테일
+    description: |
+      만화 베르세르크에 등장하는 "가츠"라는 남자 주인공의 동상 건축입니다.
+      얼마전 만화작가님의 서거를 추모하기 위해 만화의 일부분을 입체적으로 건축하여
+      작가님의 추모 기념비로 제작 해 보았습니다.
+      명암과 마인크래프트 블럭들을 이용한 표현 방법이 이 동상건축의 관전포인트가 되겠습니다.
+    spawn:
+      x: -101.5
+      y: 130
+      z: -60.5
+      yaw: 0
+      pitch: 0
+  map008:
+    world: map008
+    id: 22
+    title: Jerot Spacegate
+    owner: VBTDenver
+    description: ""
+    spawn:
+      x: -13.5
+      y: 56
+      z: -71
+      yaw: 0
+      pitch: 0
+  map010:
+    world: map010
+    id: 10
+    title: 근정전
+    owner: 비마
+    description: ""
+    spawn:
+      x: 340.5
+      y: 5
+      z: -634.5
+      yaw: 180
+      pitch: 0
+  map011:
+    world: map011
+    id: 20
+    title: 컨테이너선 Los Angeles
+    owner: 사비나루
+    description: |
+      머스크사의 Triple E Class와 HMM의 알헤시라스를 모티브로 제작한 창작 컨테이너선입니다.
+      세계의 핏줄처럼 코로나 시대에도 끊임없이 화물을 나르는 화물선을 표현하였습니다.
+      드넓은 바다를 항해하는 초대형 컨테이너선의 이곳저곳을 감상해 보세요.
+      현대 물류의 정점을 찍은 컨테이너선, 이 컨테이너선을 감상하면서 자유로운 미래를 꿈꿀 수 있으시면 좋겠습니다.
+      원활한 감상을 위해서는 SEUS PTGI E12 셰이더와 16 이상의 렌더 거리를 설정하는것을 권장합니다.
+    spawn:
+      x: 175.5
+      y: 202
+      z: 0.5
+      yaw: 90
+      pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map011.zip
+      hash: c5ac4337bec0cb9921dbf6eedd36cc91a865c57a
+  map016:
+    world: map016
+    id: 4
+    title: Cage Of Heaven
+    owner: 여우비
+    description: |
+      갇혀있는 현실속에서 자유로워지고 싶어하는 마음을 표현하고자 새장모양으로 작품을 제작하게 되었습니다.
+      상상속의 아이디어를 마크로 통해 표현함으로써 창의력을 키울수 있어서 좋았습니다.
+    spawn:
+      x: 0
+      y: 64
+      z: 0
+      yaw: 180
+      pitch: 0
+  map015:
+    world: map015
+    id: 24
+    title: 목탑
+    owner: spider1207
+    description: ""
+    spawn:
+      x: 0.5
+      y: 60
+      z: -24.5
+      yaw: 0
+      pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map015.zip
+      hash: a1fef72bebfb60c245d77e7c561628c7d6c353bc
   map004_01:
     world: map004_01
     id: 11
@@ -155,277 +426,6 @@ spaces:
     resource:
       url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map004.zip
       hash: aaf71292a1375539048ac9858f12a165231c93b7
-  map005:
-    world: map005
-    id: 2
-    title: 안압지
-    owner: 시호
-    description: |
-      신라의 대표 궁궐 건축물인 동궁과 월지를
-      복원모형, 조감도등을 참고하여 제작한 작품입니다.
-      현재의 동궁과 월지는 1,3,5호 건물만 복원이 된체
-      관광지로 많은 사람들이 놀러가곤하죠.
-      그렇지만 마인크래프트에서는 동궁과 월지를 복원함에
-      따라 신라의 멋을 느껴보실수있습니다!
-      시원한 호숫가에서 시원한 바람, 시원한 물, 멋진 건축물
-      등을 보면서 스트레스를 풀어보는건 어떨까요?
-    spawn:
-      x: 23
-      y: 50
-      z: -80
-      yaw: 0
-      pitch: 0
-  map006:
-    world: map006
-    id: 1
-    title: 베르세르크
-    owner: 하드테일
-    description: |
-      만화 베르세르크에 등장하는 "가츠"라는 남자 주인공의 동상 건축입니다.
-      얼마전 만화작가님의 서거를 추모하기 위해 만화의 일부분을 입체적으로 건축하여
-      작가님의 추모 기념비로 제작 해 보았습니다.
-      명암과 마인크래프트 블럭들을 이용한 표현 방법이 이 동상건축의 관전포인트가 되겠습니다.
-    spawn:
-      x: -101.5
-      y: 130
-      z: -60.5
-      yaw: 0
-      pitch: 0
-  map007:
-    world: map007
-    id: 9
-    title: DamCoast
-    owner: 김치보이즈
-    description: |
-      "어느 바다의 한가운데, 바다를 가로막는 거대한 벽으로 둘러싸인 도시가 있다.  그리고 세상에 존재하는 대부분의 지식, 부, 사상, 아름다움, 꿈, 열정, 사랑은 그곳에 있다. "
-      3명의 한국인 마인크래프트 건축가로 구성된 김치 보이즈가 1년 5개월 동안 영혼과 열정을 쏟은 최대의 프로젝트이자 3번째로 대중에게 공개한 작품입니다.
-      제작 초기에 작품의 컨셉과 구성을 설정하고 시작하지 않았고, 제작 과정에서 3인이 즉흥적으로 떠올린 아이디어들을 있는 그대로 과감하게 표현하며 진행된 작품입니다.
-      "창조의 기원 : 댐 코스트"는 1년 5개월간의 그들의 즉흥적인 발상들이 모여서 만들어진 하나의 거대한 작품이자 세계입니다.
-    spawn:
-      x: 264.5
-      y: 101
-      z: 46.5
-      yaw: 90
-      pitch: 0
-  map008:
-    world: map008
-    id: 22
-    title: Jerot Spacegate
-    owner: VBTDenver
-    description: ""
-    spawn:
-      x: -13.5
-      y: 56
-      z: -71
-      yaw: 0
-      pitch: 0
-  map009:
-    world: map009
-    id: 16
-    title: Rubrum Tectum
-    owner: VBTDenver
-    description: ""
-    spawn:
-      x: 0.5
-      y: 64
-      z: 5
-      yaw: 180
-      pitch: 0
-  map010:
-    world: map010
-    id: 10
-    title: 근정전
-    owner: 비마
-    description: ""
-    spawn:
-      x: 340.5
-      y: 5
-      z: -634.5
-      yaw: 180
-      pitch: 0
-  map011:
-    world: map011
-    id: 20
-    title: 컨테이너선 Los Angeles
-    owner: 사비나루
-    description: |
-      머스크사의 Triple E Class와 HMM의 알헤시라스를 모티브로 제작한 창작 컨테이너선입니다.
-      세계의 핏줄처럼 코로나 시대에도 끊임없이 화물을 나르는 화물선을 표현하였습니다.
-      드넓은 바다를 항해하는 초대형 컨테이너선의 이곳저곳을 감상해 보세요.
-      현대 물류의 정점을 찍은 컨테이너선, 이 컨테이너선을 감상하면서 자유로운 미래를 꿈꿀 수 있으시면 좋겠습니다.
-      원활한 감상을 위해서는 SEUS PTGI E12 셰이더와 16 이상의 렌더 거리를 설정하는것을 권장합니다.
-    spawn:
-      x: 175.5
-      y: 202
-      z: 0.5
-      yaw: 90
-      pitch: 0
-    resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map011.zip
-      hash: c5ac4337bec0cb9921dbf6eedd36cc91a865c57a
-  map012:
-    world: map012
-    id: 8
-    title: 크루즈
-    owner: 다람쥐친구
-    description: ""
-    spawn:
-      x: 0.5
-      y: 64
-      z: 0.5
-      yaw: -90
-      pitch: 0
-    resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map012.zip
-      hash: 5777058ff8b5e8433998a13aab456cb7d2c4d2a0
-  map013:
-    world: map013
-    id: 23
-    title: SpaceShip Collection
-    owner: ZetaZeta
-    description: ""
-    spawn:
-      x: -252
-      y: 131
-      z: 106
-      yaw: 0
-      pitch: 0
-  map014:
-    world: map014
-    id: 12
-    title: 경복궁
-    owner: spider1207
-    description: ""
-    spawn:
-      x: 1.5
-      y: 62.5
-      z: 195.5
-      yaw: 180
-      pitch: 0
-    resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map014.zip
-      hash: a1fef72bebfb60c245d77e7c561628c7d6c353bc
-  map015:
-    world: map015
-    id: 24
-    title: 목탑
-    owner: spider1207
-    description: ""
-    spawn:
-      x: 0.5
-      y: 60
-      z: -24.5
-      yaw: 0
-      pitch: 0
-    resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map015.zip
-      hash: a1fef72bebfb60c245d77e7c561628c7d6c353bc
-  map016:
-    world: map016
-    id: 4
-    title: Cage Of Heaven
-    owner: 여우비
-    description: |
-      갇혀있는 현실속에서 자유로워지고 싶어하는 마음을 표현하고자 새장모양으로 작품을 제작하게 되었습니다.
-      상상속의 아이디어를 마크로 통해 표현함으로써 창의력을 키울수 있어서 좋았습니다.
-    spawn:
-      x: 0
-      y: 64
-      z: 0
-      yaw: 180
-      pitch: 0
-  map017:
-    world: map017
-    id: 15
-    title: 도화걷길, 다함께걷길
-    owner: LonDonMS
-    description: |
-      경의선 숲길을 모티브로 하여 제작한 폐철도공원입니다.
-      도심에서 느낄 수 있는 자연의 공간, 쉼터의 공간을 표현하였습니다.
-      구역마다 다른 컨셉, 다른 표현을 통해 길을 걸으며 새로운 분위기를 느낄 수 있도록 만들어 보았습니다.
-      낮과 밤, 새벽의 시간마다 달라지는 공원의 색다른 풍경들을 감상해보세요.
-      코로나로 인해 외부활동을 자제하여야 하는 요즘, 이 작품을 감상하시며 조금이라도 산책을 하는 기분이 들으셨으면 좋겠습니다.
-      원활한 감상을 위해서는 seus ptgi e12나 ptgi e 계열 쉐이더[고사양이므로 성능이 안좋은 컴퓨터에서는 작동이 어려울 수 있습니다.]와 24 이상의 렌더 거리를 권장해드립니다.
-    spawn:
-      x: 127
-      y: 51
-      z: 11105
-      yaw: 0
-      pitch: 0
-    resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map017.zip
-      hash: c5ac4337bec0cb9921dbf6eedd36cc91a865c57a
-  map018:
-    world: map018
-    id: 14
-    title: 무릉선향도
-    owner: 감자튀김
-    description: |
-      동양 철학인 도교에 등장하는 무릉도원을 현대적으로 재 해석한 작품입니다.
-      제목에서도 알 수 있듯 여러 동양화들에서 모티프를 얻어 제작했으며
-      작품자체도 한 폭의 그림처럼 보여지게 의도하여 제작했습니다.
-      팬데믹 상황으로 인해 활동이 제한된 시대에서 많은 분들이 메타버스에서
-      건축된 무릉도원으로 인해 답답한 일상에 조금이나마 환기를 하실 수 있으면 좋겠습니다.
-    spawn:
-      x: 633
-      y: 10
-      z: 342
-      yaw: 180
-      pitch: 0
-  map019:
-    world: map019
-    id: 5
-    title: Check-Check-Fork-Fork기차
-    owner: GB디코
-    description: ""
-    spawn:
-      x: 2984
-      y: 19
-      z: 544
-      yaw: 90
-      pitch: 0
-  map020:
-    world: map020
-    id: 3
-    title: 메이플스토리 블랙헤븐
-    owner: 심플sp
-    description: |
-      이 작품은 '메이플스토리'라는 게임의 '블랙헤븐'이라는 스토리를 건축으로 재현한 작품입니다.
-      두 함대가 격렬히 전투하는 모습을 3차원 구조로 구현하여 보다 현장감을 느낄 수 있게 하였습니다.
-      두 세력 간 색감이 대비되도록 제작하였으니 이를 중심으로 관람하시는 것을 추천드립니다.
-    spawn:
-      x: -86.5
-      y: 72
-      z: 312
-      yaw: 180
-      pitch: 0
-  map021:
-    world: map021
-    id: 25
-    title: 무명여제
-    owner: Pierrot3
-    description: ""
-    spawn:
-      x: 0
-      y: 64
-      z: 0
-      yaw: 0
-      pitch: 0
-  resource:
-    world: resource
-    id: 29
-    title: 리소스팩 통합관
-    owner: 리소스팩 제작자
-    description: "다양한 리소스팩 작품들이 전시된 공간입니다"
-    spawn:
-      x: -44
-      y: 5
-      z: 48
-      yaw: -90
-      pitch: 0
-    resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722grandfinal).zip
-      hash: 99d94d8a13447ad7cbafc7b33b51ae115dbfa36d
   monte:
     world: plugin002
     id: 27

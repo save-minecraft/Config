@@ -10,7 +10,7 @@ spaces:
     owner: 우마공
     description: 로비 맵
     resource:
-      url: https://rsi.galaxyhub.krpublic/imsi/saveminecraft.zip
+      url: https://rsi.galaxyhub.kr/public/imsi/saveminecraft.zip
       hash: a6a2b4461e1be2b254b9faec0fc9b2786d995561
     spawn:
       x: 31.5

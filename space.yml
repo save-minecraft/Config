@@ -1,0 +1,16 @@
+defaultResource:
+  url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/minecraft.zip
+  hash: d79e025cc81f88d25ae0c95ad34a19fa7a260bc6
+
+spaces:
+  lobby:
+    world: lobby
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft.zip
+      hash: a6a2b4461e1be2b254b9faec0fc9b2786d995561
+    spawn:
+      x: 31.5
+      y: 69.0
+      z: 182.5
+      yaw: -180
+      pitch: 0

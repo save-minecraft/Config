@@ -11,7 +11,7 @@ spaces:
     description: 로비 맵
     resource:
       url: https://rsi.galaxyhub.kr/imsi/saveminecraft.zip
-      hash: a6a2b4461e1be2b254b9faec0fc9b2786d995561
+      hash: 839597ef36a58effdcca3ceb96d25582c6e3e3ee
     spawn:
       x: 31.5
       y: 69.0

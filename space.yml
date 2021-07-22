@@ -424,8 +424,8 @@ spaces:
       yaw: -90
       pitch: 0
     resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722final).zip
-      hash: 839597ef36a58effdcca3ceb96d25582c6e3e3ee
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722grandfinal).zip
+      hash: 99d94d8a13447ad7cbafc7b33b51ae115dbfa36d
   monte:
     world: plugin002
     id: 27

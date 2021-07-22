@@ -411,19 +411,6 @@ spaces:
       z: 0
       yaw: 0
       pitch: 0
-  resource001:
-    world: resource001
-    id: 28
-    title: JR_Railway
-    owner: のぞみ
-    description: ""
-    spawn:
-      x: 0
-      y: 64
-      z: 0
-      yaw: 180
-      pitch: 0
-
   resource:
     world: resource
     id: 29
@@ -439,18 +426,6 @@ spaces:
     resource:
       url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722final).zip
       hash: 839597ef36a58effdcca3ceb96d25582c6e3e3ee
-  job:
-    world: plugin001
-    id: 26
-    title: 직업플러그인
-    owner: 일천
-    description: 마인크래프트에 없었던 다양한 직업들을 추가해 주는 플러그인입니다.
-    spawn:
-      x: 0
-      y: 64
-      z: 0
-      yaw: 180
-      pitch: 0
   monte:
     world: plugin002
     id: 27

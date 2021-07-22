@@ -11,7 +11,7 @@ spaces:
     description: 로비 맵
     resource:
       url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722grandfinal).zip
-      hash: 839597ef36a58effdcca3ceb96d25582c6e3e3ee
+      hash: 99d94d8a13447ad7cbafc7b33b51ae115dbfa36d
     spawn:
       x: 31.5
       y: 69.0

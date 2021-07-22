@@ -71,7 +71,7 @@ spaces:
       yaw: 180
       pitch: 0
   map004_01:
-    world: map004
+    world: map004_01
     id: 11
     title: KBS
     owner: SEOULTeam
@@ -84,8 +84,11 @@ spaces:
       z: 140
       yaw: 0
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map004.zip
+      hash: aaf71292a1375539048ac9858f12a165231c93b7
   map004_02:
-    world: map005
+    world: map004_02
     id: 7
     title: 청외대
     owner: SEOULTeam
@@ -98,6 +101,9 @@ spaces:
       z: -29.5
       yaw: 180
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map004.zip
+      hash: aaf71292a1375539048ac9858f12a165231c93b7
   map004_03:
     world: map004_03
     id: 6
@@ -112,6 +118,9 @@ spaces:
       z: 34
       yaw: -90
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map004.zip
+      hash: aaf71292a1375539048ac9858f12a165231c93b7
   map004_04:
     world: map004_04
     id: 18
@@ -126,6 +135,9 @@ spaces:
       z: 124
       yaw: 180
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map004.zip
+      hash: aaf71292a1375539048ac9858f12a165231c93b7
   map004_06:
     world: map004_06
     id: 19
@@ -140,6 +152,9 @@ spaces:
       z: 29
       yaw: 90
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map004.zip
+      hash: aaf71292a1375539048ac9858f12a165231c93b7
   map005:
     world: map005
     id: 2
@@ -197,7 +212,7 @@ spaces:
     id: 22
     title: Jerot Spacegate
     owner: VBTDenver
-    descrption: ""
+    description: ""
     spawn:
       x: -13.5
       y: 56
@@ -245,6 +260,9 @@ spaces:
       z: 0.5
       yaw: 90
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map011.zip
+      hash: c5ac4337bec0cb9921dbf6eedd36cc91a865c57a
   map012:
     world: map012
     id: 8
@@ -257,6 +275,9 @@ spaces:
       z: 0.5
       yaw: -90
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map012.zip
+      hash: 5777058ff8b5e8433998a13aab456cb7d2c4d2a0
   map013:
     world: map013
     id: 23
@@ -281,6 +302,9 @@ spaces:
       z: 195.5
       yaw: 180
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map014.zip
+      hash: a1fef72bebfb60c245d77e7c561628c7d6c353bc
   map015:
     world: map015
     id: 24
@@ -293,6 +317,9 @@ spaces:
       z: -24.5
       yaw: 0
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map015.zip
+      hash: a1fef72bebfb60c245d77e7c561628c7d6c353bc
   map016:
     world: map016
     id: 4
@@ -325,6 +352,9 @@ spaces:
       z: 11105
       yaw: 0
       pitch: 0
+    resource:
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_build/map017.zip
+      hash: c5ac4337bec0cb9921dbf6eedd36cc91a865c57a
   map018:
     world: map018
     id: 14
@@ -373,7 +403,7 @@ spaces:
     world: map021
     id: 25
     title: 무명여제
-    owner: 2부 신규 신청
+    owner: Pierrot3
     description: ""
     spawn:
       x: 0
@@ -406,7 +436,7 @@ spaces:
       yaw: -90
       pitch: 0
   job:
-    world: job
+    world: plugin001
     id: 26
     title: 직업플러그인
     owner: 일천
@@ -418,7 +448,7 @@ spaces:
       yaw: 180
       pitch: 0
   monte:
-    world: monte
+    world: plugin002
     id: 27
     title: 몬테카를로 스크립트
     owner: 냉동펭귄
@@ -430,7 +460,7 @@ spaces:
       yaw: 180
       pitch: 0
   gravity:
-    world: gravity
+    world: plugin003
     id: 30
     title: 만유인력 스크립트
     owner: 냉동펭귄

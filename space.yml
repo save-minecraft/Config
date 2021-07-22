@@ -412,7 +412,7 @@ spaces:
       yaw: 0
       pitch: 0
   resource001:
-    world: resource001
+    world: resource_001
     id: 28
     title: JR_Railway
     owner: のぞみ

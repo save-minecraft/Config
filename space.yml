@@ -10,8 +10,8 @@ spaces:
     owner: 우마공
     description: 로비 맵
     resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722grandfinal).zip
-      hash: 99d94d8a13447ad7cbafc7b33b51ae115dbfa36d
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722grandfinal)%20(2).zip
+      hash: 0690f9d7ce723273f4f36719616260631f7def9e
     spawn:
       x: 31.5
       y: 69.0
@@ -31,8 +31,8 @@ spaces:
       yaw: -90
       pitch: 0
     resource:
-      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722grandfinal).zip
-      hash: 99d94d8a13447ad7cbafc7b33b51ae115dbfa36d
+      url: https://abypass-cdn.cloudnx.cloud/resourcepacks/exhibition_resource/saveminecraft(0722grandfinal)%20(2).zip
+      hash: 0690f9d7ce723273f4f36719616260631f7def9e
   map007:
     world: map007
     id: 9
